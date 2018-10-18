@@ -1,1 +1,2 @@
 # TitanicProject
+Using GradientBoosting Classifier
